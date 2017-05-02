@@ -1,0 +1,34 @@
+{
+	"ImportPath": "hello",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ashwanthkumar/slack-go-webhook",
+			"Comment": "v0.1-11-gfe52e9b",
+			"Rev": "fe52e9bf2b376c1d74222c8deabda62fe3f29ed3"
+		},
+		{
+			"ImportPath": "github.com/fredli74/lockfile",
+			"Rev": "5ff5e0b8376ed997f4e432e6f15e72ca66000f5c"
+		},
+		{
+			"ImportPath": "github.com/moul/http2curl",
+			"Rev": "4e24498b31dba4683efb9d35c1c8a91e2eda28c8"
+		},
+		{
+			"ImportPath": "github.com/parnurzeal/gorequest",
+			"Comment": "v0.2.15-7-g5bf13be",
+			"Rev": "5bf13be198787abbed057fb7c4007f372083a0f5"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-4-gff09b13",
+			"Rev": "ff09b135c25aae272398c51a07235b90a75aa4f0"
+		},
+		{
+			"ImportPath": "golang.org/x/net/publicsuffix",
+			"Rev": "da118f7b8e5954f39d0d2130ab35d4bf0e3cb344"
+		}
+	]
+}
